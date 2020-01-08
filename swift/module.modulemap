@@ -1,0 +1,4 @@
+module FFICBindgenTest {
+  header "ffi_cbindgen_test.h"
+  export *
+}
